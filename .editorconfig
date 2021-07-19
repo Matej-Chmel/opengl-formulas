@@ -1,0 +1,5 @@
+root = true
+
+[*.{cpp,frag,hpp,vert}]
+indent_style = tab
+tab_width = 4
